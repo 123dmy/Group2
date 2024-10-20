@@ -10,7 +10,6 @@ def conduct_anova(dataset):
         print("\nFor ANOVA, following are the variables available:")
         print(f"{'Variable':<20}{'Type':<15}")
         print("-" * 35)
-
         categorical_vars = []
         continuous_vars = []
 
